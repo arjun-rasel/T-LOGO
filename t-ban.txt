@@ -1,0 +1,1 @@
+toilet -f slant '           ARJUN & RASEL           '  -F gay | lolcat
