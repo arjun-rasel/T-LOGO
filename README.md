@@ -4,7 +4,9 @@ Termux Logo🙂🙂🙂
 
 $ termux-setup-storage
   
-$ pkg update && pkg upgrade && pkg install git -y
+$ pkg update && pkg upgrade 
+
+$ pkg install git
 
 $ git clone https://github.com/arjun-rasel/T-LOGO
 
